@@ -1,4 +1,7 @@
-# octansNFTs
+# OctansNFTs
+
+![Página principal de Octans](src/octans/captura_octans.PNG)
+
 Octans es una plataforma web de NFTs (Tokens No Fungibles) construida con React y Ethereum. Proporciona una experiencia fluida para que los usuarios puedan crear NFTs interactuando con la blockchain a través de su wallet conectada.
 
 ## Características
